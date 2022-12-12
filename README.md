@@ -1,8 +1,6 @@
 ## 🟩 UNDERSTANDING OF THE PROBLEM STATEMENT:
 
-- According to the quote, "Success in sales is the sum of small efforts, repeated day in & day out"
-
-- Let us consider a supermarket has several outlets or several stores around the world & they want us to predict the sales which they can expect.
+- According to the quote, "Success in sales is the sum of small efforts, repeated day in & day out". Let us consider a supermarket has several outlets or several stores around the world & they want us to predict the sales which they can expect.
 
 ## 🟩 APPLICATION OF PREDICTING THE SALES:
 
